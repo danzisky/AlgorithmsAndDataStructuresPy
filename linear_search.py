@@ -1,7 +1,3 @@
-import numbers
-from unittest import result
-
-
 def linear_search(list, target):
     """Returns the index position of the target in the list, if found,else returns none."""
 
